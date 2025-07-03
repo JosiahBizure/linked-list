@@ -1,2 +1,2 @@
 # linked-list
-Simple linked list implementation in C
+Simple singly-linked list implementation in C
